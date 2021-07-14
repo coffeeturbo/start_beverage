@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Start Beverage</string>
+    <string name="logo_text">Start Beverage</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Foods</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
